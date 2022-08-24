@@ -1,0 +1,38 @@
+{
+
+"name": "The Honey Bee",
+
+"dataColors": [ 
+	"#404040",
+	"#f1ee14",
+	"#8d8d8d",
+	"#ffbc00",
+	"#f5ff00",	
+	"#ffa200",
+	"#f0a412"
+	 ],
+
+
+"background": "#FFFFFF",
+"foreground": "#070f25",
+"tableAccent":"#0F1934",
+	"visualStyles": 
+	{
+		"treemap": {
+            "*": {
+            	"labels": [{
+
+            	    "show": true,
+                    "color": {
+                        "solid": {
+                            "color": "#ffffff"
+                        }
+                    },
+                    "fontSize": 9,
+                    "fontFamily": "Segoe UI"
+                }]
+             }       
+        }
+	}
+
+}
